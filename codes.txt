@@ -1,1 +1,2 @@
-code for cmd "color a" for green color in cmd. 
+1.code for cmd "color a" for green color in cmd. 
+2.for changing the prompt we can use "prompt ____" to change the prompt
